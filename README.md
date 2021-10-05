@@ -3,7 +3,6 @@
 <br>
 
 ![LOGO!](estudos.png)
-<hr>
 
 <a name="top" href="https://github.com/midoriobana/Impulso-React-Web-Developer"></a>
 
