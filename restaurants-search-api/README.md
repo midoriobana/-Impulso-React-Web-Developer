@@ -12,7 +12,7 @@
 - Os cards não são clicáveis.
 
 ## 🌎 Como acessar esse projeto: 
-[link surge]()
+[link surge](https://restaurants-search-ingrid-obana.surge.sh/)
 
 ### Imagens
 ![image](https://user-images.githubusercontent.com/60152991/141039149-e816f136-2a95-4c15-92fc-194287bede1a.png)
